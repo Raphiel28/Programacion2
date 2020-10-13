@@ -1,9 +1,11 @@
 public class DatosCategorias
     {
+        //Atributos
         int Id;
         string Nombre;
         bool Estado;
 
+        //Constructores
         public DatosCategorias() {; }
 
         public DatosCategorias(int id_c, string nombre_c, bool estado_c)
