@@ -5,7 +5,7 @@ public class DatosCategorias
         string Nombre;
         bool Estado;
 
-        //Constructores
+        //Constructor vacio
         public DatosCategorias() {; }
 
         public DatosCategorias(int id_c, string nombre_c, bool estado_c)
