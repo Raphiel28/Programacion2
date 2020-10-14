@@ -1,0 +1,5 @@
+c:\users\enrique payamps\documents\visual studio 2012\Projects\ProyectoGrupal\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.dll
+c:\users\enrique payamps\documents\visual studio 2012\Projects\ProyectoGrupal\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.pdb
+c:\users\enrique payamps\documents\visual studio 2012\Projects\ProyectoGrupal\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csprojResolveAssemblyReference.cache
+c:\users\enrique payamps\documents\visual studio 2012\Projects\ProyectoGrupal\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.dll
+c:\users\enrique payamps\documents\visual studio 2012\Projects\ProyectoGrupal\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.pdb
